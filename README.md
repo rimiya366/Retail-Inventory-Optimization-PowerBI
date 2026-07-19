@@ -51,8 +51,7 @@ Designed for supply chain planners to audit and improve our predictive ordering 
 * **Key Visuals:** Impact of Promotion on Sales by Weather (Grouped Bar Chart), Monthly Sales vs. Forecast Trends, and Regional Performance Grid (Cross-Tab Matrix).
 * **Core Insight:** Shows that while weather does not impact sales volumes, holiday promotions consistently lift sales. The forecasting model remains highly stable with a uniform **93.89% Forecast Accuracy Rate** across all geographic regions (East, North, South, West).
 
-*Insert Page 2 Screenshot Here*
-![Planning Dashboard](images/Page2.png)
+![Planning Dashboard](Screenshot_2026_06_19_223115.png)
 
 ---
 
