@@ -101,8 +101,7 @@ A prescriptive, daily execution tool designed for individual store managers.
   * 🟡 **Understocked Risk:** Low stock; request immediate replenishment.
   * 🔴 **Overstocked Surplus:** Excess stock; stop ordering and use the price comparison tool to run safe local discount campaigns.
 
-*Insert Page 3 Screenshot Here*
-![Operations Dashboard](images/Page3.png)
+![Operations Dashboard](Screenshot_2026_06_19_223128.png)
 
 ---
 
